@@ -20,7 +20,7 @@ Smart-ATS is a Streamlit web application that optimizes resumes for automated tr
 
 1. **Clone the repository**
 ```
-git clone https://github.com/yourusername/Smart-ATS-Resume-Analyzer.git
+git clone https://github.com/kiran-001/Smart-ATS-Resume-Analyzer.git
 cd Smart-ATS-Resume-Analyzer
 ```
 
